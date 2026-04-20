@@ -16,3 +16,9 @@ This is the first step in a larger journey to develop a **Digital Partograph** o
 * **Language:** Solidity
 * **Environment:** Remix IDE
 * **Version Control:** Git/GitHub
+
+
+
+This contract is Verified on Etherscan. The source code is publicly auditable and can be interacted with directly on-chain.
+<img width="692" height="649" alt="Screenshot 2026-04-20 005901" src="https://github.com/user-attachments/assets/c693f40b-9c8c-4e39-883d-268d752edd99" />
+
